@@ -1,5 +1,7 @@
 # Heroku Django Starter Template
 
+[![Join the chat at https://gitter.im/iut-website/Lobby](https://badges.gitter.im/iut-website/Lobby.svg)](https://gitter.im/iut-website/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An utterly fantastic project starter template for Django 1.10.
 
 ## Features
